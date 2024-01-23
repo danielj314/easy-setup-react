@@ -6,7 +6,7 @@ const Nav = () => (
         <li><a>Home</a></li>
         <li><a>Personal</a></li>
         <li><a>Analytics</a></li>
-        <li><a>Comments</a></li>
+        <li><a>Tweets</a></li>
     </nav>
 )
 
